@@ -1,0 +1,2 @@
+- ng new todo_angular
+- ng serve
